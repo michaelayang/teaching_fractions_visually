@@ -125,7 +125,10 @@ fractionsApp.controller("mainController", function($scope, $filter, $http, $q)
 
       if ($scope.visualNumerator/$scope.visualDenominator == $scope.numberNumerator/$scope.numberDenominator) {
         drawMatchText($scope.visualNumerator, $scope.numberNumerator, $scope.visualDenominator, $scope.numberDenominator);
-        color = "blue";
+        color = "cyan";
+        if ($scope.visualNumerator != $scope.numberNumerator) {
+          color = "blue";
+        }
       }
       drawFractionVisual($scope.visualDenominator, $scope.visualNumerator, color);
 
