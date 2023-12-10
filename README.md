@@ -1,1 +1,1 @@
-# teaching_fractions_visually
+Meant for 6th grade students reviewing fractions and simplifying fractions.
