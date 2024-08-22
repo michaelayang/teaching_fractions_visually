@@ -2,6 +2,15 @@ Meant for 6th grade students reviewing fractions and simplifying fractions.
 
 Uses Angular JS version 1.4.8
 
-Copyright 2023, M. Yang
+Copyright (C) 2023-2024, M. Yang
 
-Copying and distribution of this software, with or without modification, are permitted in any medium without royalty, provided the copyright notice and this notice are preserved. This file is offered as-is, without any warranty.
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License (publicly available on the internet)
+    for more details.
